@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS toko_db;
+USE toko_db;
